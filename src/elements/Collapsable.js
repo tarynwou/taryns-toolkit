@@ -6,11 +6,11 @@ function Collapsible(props) {
   return (
     <div className="collapsible">
       <div className="header" {...getToggleProps()}>
-        {props.question}
+        {props.q}
       </div>
       <div {...getCollapseProps()}>
         <div className="content">
-          {props.answer} <br />
+          {props.a} <br />
           <br />
           Click again to hide...
         </div>
