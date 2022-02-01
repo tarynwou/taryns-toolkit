@@ -21,9 +21,25 @@ function FAQ() {
                 <Collapsible q="This is a question" a="This is an answer" />
                 <Collapsible q="This is a question" a="This is an answer" />
                 <Collapsible q="This is a question" a="This is an answer" />
+                <h2>Productivity</h2>
+                <Collapsible q="This is a question" a="This is an answer" />
+                <Collapsible q="This is a question" a="This is an answer" />
+                <Collapsible q="This is a question" a="This is an answer" />
+                <Collapsible q="This is a question" a="This is an answer" />
+                <h2>Productivity</h2>
+                <Collapsible q="This is a question" a="This is an answer" />
+                <Collapsible q="This is a question" a="This is an answer" />
               </div>
               <div class="col-sm-6">
                 <h2>Extracurriculars</h2>
+                <Collapsible q="This is a question" a="This is an answer" />
+                <Collapsible q="This is a question" a="This is an answer" />
+                <h2>Career</h2>
+                <Collapsible q="This is a question" a="This is an answer" />
+                <Collapsible q="This is a question" a="This is an answer" />
+                <Collapsible q="This is a question" a="This is an answer" />
+                <h2>Productivity</h2>
+                <Collapsible q="This is a question" a="This is an answer" />
                 <Collapsible q="This is a question" a="This is an answer" />
                 <Collapsible q="This is a question" a="This is an answer" />
               </div>

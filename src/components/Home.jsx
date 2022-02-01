@@ -15,8 +15,13 @@ function Home() {
           <div class="col-lg-5">
             <h1 class="font-weight-light">Home</h1>
             <p>
-              I'm a second-year business and computer science student at the
-              University of British Columbia.
+              I’m a second-year business and computer science student at the
+              University of British Columbia. I am always looking to pursue new
+              opportunities that promote personal development and community
+              benefit. Given my experiences, I’ve come across many lessons I’d
+              love to share with you! <br></br>
+              <br></br>
+              Let’s connect!
             </p>
           </div>
         </div>

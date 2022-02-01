@@ -1,6 +1,8 @@
 import logo from "./logo.svg";
 import "./App.css";
 
+// file not used
+
 function App() {
   return (
     <div className="App">
