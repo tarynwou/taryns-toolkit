@@ -1,9 +1,15 @@
 .collapsible .content {
   padding: 6px;
-  background-color: peachpuff;
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  border-top-width: 0px;
 }
 .collapsible .header {
-  background-color: #dddddd;
   padding: 6px;
   cursor: pointer;
+  /* border-radius: 10px; */
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
 }
