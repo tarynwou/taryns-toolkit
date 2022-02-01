@@ -17,11 +17,13 @@ function FAQ() {
 
             <div class="row">
               <div class="col-sm-6">
-                <h2>UBC</h2>
+                <h2>School</h2>
+                <h3>UBC</h3>
                 <Collapsible q="This is a question" a="This is an answer" />
                 <Collapsible q="This is a question" a="This is an answer" />
+                <h3>High School</h3>
                 <Collapsible q="This is a question" a="This is an answer" />
-                <h2>Productivity</h2>
+                <h2>Career</h2>
                 <Collapsible q="This is a question" a="This is an answer" />
                 <Collapsible q="This is a question" a="This is an answer" />
                 <Collapsible q="This is a question" a="This is an answer" />
@@ -34,11 +36,12 @@ function FAQ() {
                 <h2>Extracurriculars</h2>
                 <Collapsible q="This is a question" a="This is an answer" />
                 <Collapsible q="This is a question" a="This is an answer" />
-                <h2>Career</h2>
+                <h2>Personal Development</h2>
+                <h3>Learning</h3>
                 <Collapsible q="This is a question" a="This is an answer" />
                 <Collapsible q="This is a question" a="This is an answer" />
                 <Collapsible q="This is a question" a="This is an answer" />
-                <h2>Productivity</h2>
+                <h3>Habits</h3>
                 <Collapsible q="This is a question" a="This is an answer" />
                 <Collapsible q="This is a question" a="This is an answer" />
                 <Collapsible q="This is a question" a="This is an answer" />
