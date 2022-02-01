@@ -13,3 +13,7 @@
   border-width: 2px;
   border-style: solid;
 }
+
+.collapsible {
+  margin-bottom: 10px;
+}
