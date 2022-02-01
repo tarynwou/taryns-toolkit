@@ -1,2 +1,9 @@
-#collapsable-box {
+.collapsible .content {
+  padding: 6px;
+  background-color: peachpuff;
+}
+.collapsible .header {
+  background-color: #dddddd;
+  padding: 6px;
+  cursor: pointer;
 }
