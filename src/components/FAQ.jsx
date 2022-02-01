@@ -15,7 +15,10 @@ function FAQ() {
               type and scrambled it to make a type specimen book.
             </p>
 
-            <Collapsible />
+            <Collapsible
+              question="This is a question"
+              answer="This is an answer"
+            />
           </div>
         </div>
       </div>
