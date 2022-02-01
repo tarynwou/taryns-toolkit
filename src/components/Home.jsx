@@ -15,7 +15,8 @@ function Home() {
           <div class="col-lg-5">
             <h1 class="font-weight-light">Home</h1>
             <p>
-            I'm a second-year business and computer science student at the University of British Columbia.
+              I'm a second-year business and computer science student at the
+              University of British Columbia.
             </p>
           </div>
         </div>
