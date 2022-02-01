@@ -9,11 +9,7 @@ function Collapsible(props) {
         {props.q}
       </div>
       <div {...getCollapseProps()}>
-        <div className="content">
-          {props.a} <br />
-          <br />
-          Click again to hide...
-        </div>
+        <div className="content">{props.a}</div>
       </div>
     </div>
   );
