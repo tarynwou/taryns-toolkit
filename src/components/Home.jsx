@@ -1,5 +1,6 @@
 import React from "react";
 import Headshot from "../graphics/bucket-hat-sq.jpeg";
+import "../graphics/graphics.css";
 
 function Home() {
   return (
@@ -8,7 +9,8 @@ function Home() {
         <div class="row align-items-center my-5">
           <div class="col-lg-6">
             <img
-              class="img-fluid rounded mb-4 mb-lg-0"
+              // class="img-fluid rounded mb-4 mb-lg-0"
+              className="headshot"
               src={Headshot}
               alt="Taryn Wou"
             />
