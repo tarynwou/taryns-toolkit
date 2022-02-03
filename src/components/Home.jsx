@@ -1,4 +1,5 @@
 import React from "react";
+import Headshot from "../graphics/bucket-hat-sq.jpeg";
 
 function Home() {
   return (
@@ -8,8 +9,8 @@ function Home() {
           <div class="col-lg-6">
             <img
               class="img-fluid rounded mb-4 mb-lg-0"
-              src="http://placehold.it/300x300"
-              alt=""
+              src={Headshot}
+              alt="Taryn Wou"
             />
           </div>
           <div class="col-lg-6">
