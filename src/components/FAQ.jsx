@@ -21,7 +21,7 @@ function FAQ() {
                 <h3>UBC</h3>
                 <Collapsible
                   q="What did you have to do in your UBC Sauder application?"
-                  a=""
+                  a={text}
                 />
                 <Collapsible
                   q="Tips for the Sauder application?"
@@ -115,3 +115,5 @@ function FAQ() {
 }
 
 export default FAQ;
+
+const text = "lol \n haha";

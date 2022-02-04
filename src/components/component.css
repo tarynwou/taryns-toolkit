@@ -15,3 +15,17 @@
 h3 {
   font-size: 20px;
 }
+
+.navbar-text {
+  color: green;
+}
+
+#nav {
+  background-color: #ffffff;
+}
+
+#homepage {
+  border-top: #000000;
+  border-style: solid;
+  border-width: 2px;
+}

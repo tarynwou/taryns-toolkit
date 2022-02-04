@@ -8,12 +8,7 @@ function Home() {
       <div class="container">
         <div class="row align-items-center my-5">
           <div class="col-lg-5">
-            <img
-              // class="img-fluid rounded mb-4 mb-lg-0"
-              className="headshot"
-              src={Headshot}
-              alt="Taryn Wou"
-            />
+            <img className="headshot" src={Headshot} alt="Taryn Wou" />
           </div>
           <div class="col-lg-6">
             <h1>Hi, I'm Taryn!</h1>
