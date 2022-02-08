@@ -29,3 +29,7 @@ h3 {
   border-style: solid;
   border-width: 2px;
 }
+
+#empty-page {
+  height: 90%;
+}

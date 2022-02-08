@@ -4,9 +4,10 @@ import { Outlet } from "react-router-dom";
 function Box() {
   return (
     <div className="home">
-      <div class="container">
+      <div class="container" id="empty-page">
         <h1 className="text-center mt-5">The Box</h1>
-        <Outlet />
+        {/* <Outlet /> */}
+        <p className="page-descriptions">Coming soon...</p>
       </div>
     </div>
   );

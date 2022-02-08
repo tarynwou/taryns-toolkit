@@ -2,7 +2,16 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import { Navigation, Footer, Home, FAQ, Box, Posts, Post } from "./components";
+import {
+  Navigation,
+  Footer,
+  Home,
+  FAQ,
+  Tools,
+  Box,
+  Posts,
+  Post,
+} from "./components";
 
 ReactDOM.render(
   <Router>
@@ -10,6 +19,7 @@ ReactDOM.render(
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/faq" element={<FAQ />} />
+      <Route path="/tools" element={<Tools />} />
       <Route path="/the-box" element={<Box />}>
         <Route path="" element={<Posts />} />
         <Route path=":postSlug" element={<Post />} />

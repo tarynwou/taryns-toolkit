@@ -1,6 +1,6 @@
 import React from "react";
 import Collapsible from "../elements/Collapsable";
-import "./component.css";
+import "./components.css";
 
 function FAQ() {
   return (
