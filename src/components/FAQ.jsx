@@ -97,7 +97,7 @@ function FAQ() {
                 /> */}
                 <Collapsible
                   q="Should I take calculus 12?"
-                  a=" would 110% recommend taking calculus in high
+                  a="I would 110% recommend taking calculus in high
                   school if you're pursuing a post-secondary major that has a calculus requirement (i.e. science, engineering, business, etc.) EVEN IF it screws over your average—WAY better than failing post-secondary calculus and PAYING to take it again."
                 />
                 {/* <Collapsible
