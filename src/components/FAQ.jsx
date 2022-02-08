@@ -199,4 +199,4 @@ function FAQ() {
 
 export default FAQ;
 
-let text = document.write("Hello World!<br/>This is my string");
+// let text = document.write("Hello World!<br/>This is my string");
